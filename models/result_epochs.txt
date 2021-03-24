@@ -1,0 +1,30 @@
+Loss_D: 0.9313
+Loss_G: 4.9150
+
+Loss_D: 0.9962
+Loss_G: 6.0627
+
+Loss_D: 0.7130
+Loss_G: 2.8039
+
+Loss_D: 4.9127
+Loss_G: 1.1164
+
+Loss_D: 0.9803
+Loss_G: 1.1756
+
+Loss_D: 0.4642
+Loss_G: 3.0066
+
+Loss_D: 0.3962
+Loss_G: 4.9990
+
+Loss_D: 2.5603
+Loss_G: 2.8366
+
+Loss_D: 0.3806
+Loss_G: 4.8779
+
+Loss_D: 0.9550
+Loss_G: 1.1148
+
